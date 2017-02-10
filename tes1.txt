@@ -7,6 +7,8 @@ That has now been altered.
 
 I added this file in my text editor.
 
+I'm testing another change.
+
 Adding a new line.
 Anotha one.
 
