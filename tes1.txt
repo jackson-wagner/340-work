@@ -1,0 +1,7 @@
+Name: Jackson Wagner
+Date: February 6, 2017
+
+This is my first text document for MART 340 - Web Development.
+
+
+I added a new line in my text editor.
