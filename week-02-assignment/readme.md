@@ -24,4 +24,4 @@ Also, here are my favorite [Teenage Mutant Ninja Turtles](https://en.wikipedia.o
 3. Leonardo
 4. Michaelangelo
 
-![Image of my editor](MARTWeek2.jpg)
+![Image of my editor](MARTWeek2.png)
