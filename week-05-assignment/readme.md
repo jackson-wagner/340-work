@@ -8,3 +8,6 @@ I then moved on to tables, getting familiar with creating rows and columns to ma
 
 ## Forms
 The next portion of the homework dealt with all sorts of different elements that you can put into forms. I'm not going to lie, I got a little lost during this section. There was just a lot of information to digest and I didn't quite understand exactly how it all worked together. When finishing the homework I came back to the pages to find specific information quite a bit. I struggled in particular with what the form and action line meant and what I should insert into there.
+
+## Homework
+I chose to base my homework around a golf questionnaire. I included three pictures, one generic golf photo, one of a player I included in a question and one of a ball I included in a question. I had radio buttons, checkboxes, long and short text boxes with a placeholder and a drop down menu.
