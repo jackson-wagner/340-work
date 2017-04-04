@@ -16,8 +16,13 @@ body {
   letter-spacing: normal;
   word-spacing: normal;
   line-height: 1.4em;
-  border-color: #FF3C33
+  border-color: #FF3C33;
+  font-family: tahoma;
 }
 h1:hover {
   color: #334CFF
+}
+
+body:hover {
+  background-color: white;
 }
