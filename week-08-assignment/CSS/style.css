@@ -1,9 +1,23 @@
-.text-block::first-letter {
-  color: #334CFF
-  font-size: 5em
-  font-width: 600
+p::first-letter {
+  color: #334CFF;
+  font-size: 5em;
+  font-width: 600;
+  border-style: double;
+  border-color: #FF3C33
 }
 
-.title {
-  color: #FF3C33
+h1 {
+  color: #FF3C33;
+}
+
+body {
+  background-color: #CACACA;
+  text-align: center;
+  letter-spacing: normal;
+  word-spacing: normal;
+  line-height: 1.4em;
+  border-color: #FF3C33
+}
+h1:hover {
+  color: #334CFF
 }
