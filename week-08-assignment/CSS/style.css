@@ -1,0 +1,9 @@
+.text-block::first-letter {
+  color: #334CFF
+  font-size: 5em
+  font-width: 600
+}
+
+.title {
+  color: #FF3C33
+}
