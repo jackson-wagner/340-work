@@ -1,3 +1,4 @@
+<style>
 p::first-letter {
   color: #334CFF;
   font-size: 5em;
@@ -26,3 +27,4 @@ h1:hover {
 body:hover {
   background-color: white;
 }
+</style>
