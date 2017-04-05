@@ -8,4 +8,6 @@ I also had a lot of issues with Atom for some reason. When I went to work on Mon
 
 To add on to all of that, my SourceTree went goofy on me. When I went to push my files to my github page, an error message kept popping up. I tried a bunch of different things but I couldn't get it to push my files.
 
-Eventually I got all of my apps figured out, but I still couldn't figure out how to get my CSS to work on my html page. 
+Eventually I got all of my apps figured out, but I still couldn't figure out how to get my CSS to work on my html page.
+
+I finally just posted my homework in the hopes that you would catch my mistake. I've looked at everything over and over and I feel like it should work but it just is not showing up.
