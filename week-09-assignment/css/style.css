@@ -76,4 +76,5 @@ p {
   float: left;
   margin: 1em;
   background-color:#F08080;
+  max-width: 5em;
 }
