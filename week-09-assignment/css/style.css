@@ -72,7 +72,7 @@ p {
   background-color: #8ABBE4;
 }
 
-.side-column p {
+.side-column {
   float: left;
   margin: 1em;
   background-color:#F08080;
