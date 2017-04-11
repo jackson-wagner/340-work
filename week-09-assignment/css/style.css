@@ -63,3 +63,9 @@ header {
     color: #fff;
     background-color: #8ABBE4;
 }
+
+p {
+  border: ridge;
+  border-radius: 5px;
+  border-width: 1em;
+}
