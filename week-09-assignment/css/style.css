@@ -67,5 +67,13 @@ header {
 p {
   border: ridge;
   border-radius: 5px;
-  border-width: 1em;
+  border-width: 0.3em;
+  text-align: center;
+  background-color: #8ABBE4;
+}
+
+.side-column p {
+  float: left;
+  margin: 1em;
+  background-color:#F08080;
 }
