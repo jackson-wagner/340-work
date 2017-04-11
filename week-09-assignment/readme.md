@@ -2,6 +2,8 @@
 
 ## Jackson Wagner
 
-Well this is shaping up to be another strange week for me. After I messed with the code for hours last week and couldn't get the CSS to link, it worked on my first try this week. Unfortunately, it didn't seem like any of the changes I made were having any effect on my website. I had my whole header built, and thought my code looked right, but nothing was showing up on the website. In frustration, I went to the example from the reading this week that Michael made and copy and pasted it to see if that would show me anything. Unfortunately, it didn't. I'm not sure if I have something on my computer that is causing this to happen or what, but by the time you read this I will probably have set up a time with you through email to meet. For now, I'm going to keep trying things I guess and at least get a solid css and html page setup in my best attempt to get this site going.
+After a very frustrating week last week, I kind of got back into the swing of things this week. It took me a while to get anything going on my live website, but I finally got my css and html to work together. I had messes around with my resume for quite a while today, so all the info was still fresh in my mind and I figured I'd put together a very rough version of it on this webpage.
 
-![Screenshot after I copy and pasted code](MARTweek9.png)
+I felt like I understood most of what I was doing. I put in a header with a dropdown menu, I threw a border around my text and filled it in, added a column that floated on the side.
+
+My color scheme felt kind of patriotic, but I liked the softer tones of red and blue. I also messed with the font a bit -one of the options you get after entering on font-family is fantasy, which probably isn't great for an actual resume but I liked it.
