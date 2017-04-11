@@ -1,6 +1,6 @@
 body {
-    font-size: 16pt;
-    font-family: 'Helvetica Neue', 'helvetica', sans-serif;
+    font-size: 12pt;
+    font-family: fantasy;
 }
 
 header {
@@ -10,7 +10,7 @@ header {
 }
 
 .menu-container {
-    background-color: #b4b4b4;
+    background-color: #F08080;
     margin: 0;
     padding: 0;
 }
