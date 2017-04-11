@@ -1,0 +1,36 @@
+.menu-container {
+  background-color: #E48A8A;
+  margin: 0;
+  padding: 0;
+}
+
+.menu-item {
+  display: inline-block;
+  padding: 0.5em;
+  text-align: center;
+}
+
+.dropdown {
+  display: inline-block;
+  width: 10%;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  border: 2px inset;
+  margin: 0;
+  z-index: 1;
+}
+
+.dropdown-item {
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 0.5em;
+}
+
+body {
+  font-size: 12pt;
+  font-family: sans-serif;
+}
