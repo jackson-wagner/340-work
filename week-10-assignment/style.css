@@ -1,0 +1,39 @@
+.main-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.flex-item {
+  text-align: center;
+  color: #0C3659;
+}
+
+.news {
+  background-color: #000000;
+  color: #FFFFFF;
+  width: 100%;
+  order: 1;
+  margin: 1em;
+}
+
+.sports {
+  background-color: #FFFFFF;
+  color: #0C3659;
+  width: 50%;
+  order: 2;
+  margin: 1em;
+}
+
+.culture {
+  background-color: #FFFFFF;
+  color: black;
+  width: 25%;
+  order: 3;
+}
+
+.opinion {
+  background-color: black;
+  color: white;
+  width: 25%;
+  order: 4;
+}
