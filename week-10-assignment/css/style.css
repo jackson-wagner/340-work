@@ -1,0 +1,63 @@
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.flex-item {
+  flex: auto;
+  text-align: center;
+  height: 100px;
+}
+.news {
+  background-color: #000000;
+  color: #FFFFFF;
+  width: 100%;
+  order: 1;
+  margin: 1em;
+}
+.sports {
+  background-color: #FFFFFF;
+  color: #0C3659;
+  width: 50%;
+  order: 2;
+  margin: 1em;
+}
+.culture {
+  background-color: #FFFFFF;
+  color: black;
+  width: 25%;
+  order: 3;
+}
+.opinion {
+  background-color: black;
+  color: white;
+  width: 25%;
+  order: 4;
+}
+@media (min-width: 800px) {
+.news {
+  order: 1;
+}
+.sports {
+  order: 2;
+}
+.culture {
+  order: 3;
+}
+.opinion {
+  order: 4;
+}
+}
+@media (max-width: 400px) {
+  .news {
+    order: 1;
+  }
+  .sports {
+    order: 2;
+  }
+  .culture {
+    order: 3;
+  }
+  .opinion {
+    order: 4;
+  }
+}
