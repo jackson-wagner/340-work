@@ -41,28 +41,40 @@
 @media (min-width: 800px) {
 .news {
   order: 1;
+  background-color: #FFFFFF;
+  color: #0C3659;
 }
 .sports {
   order: 2;
+  background-color: #000000;
+  color: #FFFFFF;
 }
 .culture {
   order: 3;
+  background-color: #000000;
+  color: #FFFFFF;
 }
 .opinion {
   order: 4;
+  background-color: #FFFFFF;
+  color: #0C3659;
 }
 }
 @media (max-width: 400px) {
   .news {
     order: 1;
+    background-color: #F2BEFF;
   }
   .sports {
     order: 2;
+    background-color: #F2BEFF;
   }
   .culture {
     order: 3;
+    background-color: #F2BEFF;
   }
   .opinion {
     order: 4;
+    background-color: #F2BEFF;
   }
 }
