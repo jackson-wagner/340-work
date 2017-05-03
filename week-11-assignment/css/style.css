@@ -13,19 +13,19 @@ body {
     background-size: cover;
 }
 
-.bgimg-1 {
+.img-1 {
     min-height: 100vh;
     background-image: url("images/Kidder.jpg");
 }
 
-.bgimg-2 {
-    min-height: 300px;
+.img-2 {
+    min-height: 400px;
     background-image: url("images/JR.jpg");
 }
 
-.bgimg-3 {
+.img-3 {
     min-height: 400px;
-    background-image: url("images/Yamen.jpg");
+    background-image: url("./images/Yamen.jpg");
 }
 
 .hero {
