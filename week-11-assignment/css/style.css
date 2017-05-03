@@ -1,7 +1,7 @@
 body {
     margin: 0;
     color: black;
-    font: serif;
+    font: 400 15px/1.8 serif;
 }
 
 .img-1, .img-2, .img-3 {
